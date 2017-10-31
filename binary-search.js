@@ -59,3 +59,7 @@ console.log(searchResult);
 // assign value of guess + 1 to min
 // assign value of ((min + max))/2) to guess
 // if guess does equal target value return success
+
+
+
+//git change
